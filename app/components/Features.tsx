@@ -87,7 +87,7 @@ export function Features() {
      className="pt-[24px] sm:hidden"
      />
     <p className="py-[24px] text-[#36645C] lg:text-[18px]">
-      Stay on top of things and revamp your work process with our game-changing feature. Get a bird's eye view with our customizable dashboard.
+      Stay on top of things and revamp your work process with our game-changing feature. Get a bird&apos;s eye view with our customizable dashboard.
     </p>
 
     <ul className="flex flex-col gap-y-3 lg:text-[18px]">
@@ -129,7 +129,7 @@ export function Features() {
       Growth monitoring
     </h3>
     <h1 className="pt-[12px] text-2xl font-medium text-[#172026] lg:text-[42px] lg:leading-[58px]">
-      Monitor your site's new subscribers
+      Monitor your site&apos;s new subscribers
     </h1>
     <Image 
       src={Feature3}
@@ -137,7 +137,7 @@ export function Features() {
       className="pt-[24px] sm:hidden"
     />
     <p className="py-[24px] text-[#36485C] lg:text-[18px]">
-      Stay on top of things and revamp your work process with our game-changing feature. Get a bird's eye view with our customizable dashboard.
+      Stay on top of things and revamp your work process with our game-changing feature. Get a bird&apos;s eye view with our customizable dashboard.
     </p>
     <div className="flex w-full gap-[24px] ">
       <div className="w-1/2 flex flex-col gap-y-3">
@@ -167,4 +167,4 @@ export function Features() {
 </div>
 </div>
     )
-  };
+  };  
